@@ -1,0 +1,6 @@
+train: C:\Users\admin\Desktop\yolov8\data\Aircraft Crack Detection.v6i.yolov8\train\images
+val: C:\Users\admin\Desktop\yolov8\data\Aircraft Crack Detection.v6i.yolov8\valid\images
+test: C:\Users\admin\Desktop\yolov8\data\Aircraft Crack Detection.v6i.yolov8\test\images
+
+nc: 2
+names: ['crack', 'dent']
